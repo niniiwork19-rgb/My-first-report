@@ -2,11 +2,11 @@
 hello mai abhi GitHub Sikh rahi hun.
 <table>
   <tr>
-    <td>name</td>
-    <td>roll no</td>
+    <td>dates</td>
+    <td>rupees</td>
   </tr>
   <tr>
-  <td>ninii</td>
-  <td>1</td>
+  <td>20/03/2026</td>
+  <td>20</td>
   </tr>
 </table>
